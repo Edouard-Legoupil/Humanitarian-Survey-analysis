@@ -3,7 +3,7 @@ title: 'Calculated indicators'
 description: ""
 ---
 
-## Insert exercise title here
+## Introduction
 
 ```yaml
 type: VideoExercise
