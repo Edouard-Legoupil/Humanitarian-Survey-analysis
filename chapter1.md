@@ -27,3 +27,79 @@ skills: 1
 ```
 
 You have just collected a complex survey data set using Kobotoolobox, ODK or ONA. You need now to do the analysis. In this first chapter, we will configure your project so that the analysis is properly organized and reproducible for your peer.
+
+---
+
+## Initiate the project
+
+```yaml
+type: NormalExercise
+key: 9af498a604
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## Configure path
+
+```yaml
+type: NormalExercise
+key: aaef2fcc5f
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```

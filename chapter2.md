@@ -3,7 +3,7 @@ title: 'Deal with hierarchical data'
 description: 'Connect nested frame'
 ---
 
-## Insert exercise title here
+## Set up primary key
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -22,3 +22,42 @@ cluster
 Stratified
 
 `@feedback`
+
+
+---
+
+## Link nested frame
+
+```yaml
+type: NormalExercise
+key: d10c603df5
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
