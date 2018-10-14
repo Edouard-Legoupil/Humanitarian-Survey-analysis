@@ -1,6 +1,6 @@
 ---
 title: 'Calculated indicators'
-description: "Create new variables from the existing ones"
+description: 'Create new variables from the existing ones'
 ---
 
 ## An exercise title written in sentence case
