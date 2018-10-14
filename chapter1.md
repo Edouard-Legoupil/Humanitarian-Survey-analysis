@@ -13,13 +13,12 @@ xp: 100
 skills: 1
 ```
 
-This is the Context. It should help provide students with the background information needed.
-The Instructions that follow should be in bullet point form with clear guidance for what is expected.
+You have just collected a complex survey data set using Kobotoolobox, ODK or ONA. You need now to do the analysis. In this first chapter, we will configure your project so that the analysis is properly organized and reproducible for your peer.
 
 `@instructions`
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Load the koboloaedeR package
+- Initialize the project 
+- Set up the path to your data and form
 
 `@hint`
 - Here is the hint for this setup problem. 
