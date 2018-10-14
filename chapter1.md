@@ -1,6 +1,6 @@
 ---
-title: 'Humanitarian Survey'
-description: 'Common practice for survey data collection in humanitarian settings'
+title: 'Configure project'
+description: ""
 ---
 
 ## An exercise title written in sentence case
