@@ -1,6 +1,6 @@
 ---
 title: 'Deal with hierarchical data'
-description: "Connect nested frame"
+description: 'Connect nested frame'
 ---
 
 ## Insert exercise title here
