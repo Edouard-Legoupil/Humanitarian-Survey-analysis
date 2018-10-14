@@ -6,7 +6,7 @@ description: "Fix potential issues in the dataset"
 
 ```yaml
 type: NormalExercise
-key: c909bf2ad3
+key: clean1
 lang: r
 xp: 100
 skills: 1

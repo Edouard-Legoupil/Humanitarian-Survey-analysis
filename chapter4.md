@@ -7,7 +7,7 @@ description: "Prepare your microdata for anonymisation"
 
 ```yaml
 type: NormalExercise
-key: c909bf2ad7
+key: risk1
 lang: r
 xp: 100
 skills: 1

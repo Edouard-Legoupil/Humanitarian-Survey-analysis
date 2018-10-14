@@ -7,7 +7,7 @@ description: "Create new variables from the existing ones"
 
 ```yaml
 type: NormalExercise
-key: c909bf2ad6
+key: feature1
 lang: r
 xp: 100
 skills: 1
