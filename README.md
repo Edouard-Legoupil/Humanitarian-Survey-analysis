@@ -142,7 +142,7 @@ A typical lesson is comprised of:
 >     * A learning objective: Create a default map by centering on a certain location, setting a default zoom level, and adding markers or pins to your map.
 >     * Some functions introduced/used: `setView()`, `addMarkers()`, `addTiles()`
 
-> Chapter 2 - Plotting Points
+> Chapter 2 - Deal with hierarchical data / Connect nested frame
 >   * Lesson 2.1 - Introduction to IPEDS Data
 >     * A learning objective: Clean up a map to restore the default view. Create a map step-by-step to gain a better understanding of how your data will dictate the map you create.
 >     * Some functions introduced/used: `clearMarkers()`, `clearBounds()`, `count()`, `arrange()`
@@ -156,7 +156,7 @@ A typical lesson is comprised of:
 >     * A learning objective: Enhance the appearance of the IPEDS map by changing the color palette of the markers and adding a map legend.
 >     * Some functions introduced/used: `addCircleMarkers()`, `addLegend()`
 
-> Chapter 3 - Groups, Layers, and Extras
+> Chapter 3 - Clean your data in a reproducible way / Fix potential issues in the dataset
 >   * Lesson 3.1 - The Leaflet Extras Package
 >     * A learning objective: Add search capabilities to your map! Find a location by typing it in a search bar, plus find the name of a location by clicking on a point in your map.
 >     * Some functions introduced/used: `addSearchOSM()`, `addReverseSearchOSM()`, `addCircleMarkers()`
@@ -170,7 +170,7 @@ A typical lesson is comprised of:
 >     * A learning objective: Create an advanced and searchable map using special features like clustering.
 >     * Some functions introduced/used: `addSearchFeatures()`, `addCircleMarkers()`
 
-> Chapter 4 - Plotting Polygons
+> Chapter 4 - Disclosure Risk Treatment and Anonymisation / Prepare your microdata for anonymisation
 >   * Lesson 4.1 - Spatial Data
 >     * A learning objective: Define your map boundaries by performing a spatial join.
 >     * Some functions introduced/used: `class()`, `slotNames()`, `glimpse()`, `left_join()`
@@ -181,6 +181,8 @@ A typical lesson is comprised of:
 >     * A learning objective: Use interactive web maps to explore and understand the properties of data.
 >     * Some functions introduced/used: `slotNames()`, `base::summary()`, `addPolygons()`
 
+
+> Chapter 5 - Calculated indicators / Create new variables from the existing ones
   
   - [ ] Does each lesson have a clear learning objective?
   - [ ] Does each lesson include a brief list of functions or packages that the student will use?
