@@ -1,4 +1,4 @@
-# **Course Title**<br/>by **Course Author**
+# **Humanitarian Survey Analysis**<br/>by **Edouard Legoupil**
 
 README and sample lesson deadline: YYYY-MM-DD 
 
@@ -20,23 +20,26 @@ This part of the 'Course Spec' process is designed to help guide you through cou
 ### 1. What problem(s) will students learn how to solve? (minimum of 5 problems)
 
 - [ ] Write a list of ideas for problems that the students will encounter in the course.
-> From a course on fraud detection:
->
->- How to identify and predict fraudulent transactions
->- How to effectively work with highly imbalanced data
+
+- How to quickly generate insight from a dataset collected with an xlsform compatible platform ?
+- How to organise your data analysis plan ?
+- How to improve your report output ?
+- How to deal with hierarchical dataset?
+- How to generate your statistical disclosure risk measurement and set up anonymisation treatment?
+- How to configure your sampling plan so that all your results are correctly weighted?
+- How to create calculated indicators to be added to your analysis plan?
 
 
 ### 2. What are the learning objectives of the course?
 
 - [ ] Write a list of learning objectives for the course. These are not shown to the students, but they will be used to ensure your vision for the course aligns with the vision of your Curriculum Lead.
 
->Example from our scikit-learn course:
->
->- Learn the key concepts of supervised learning and how to implement them on real-world datasets;
->- Learn to distinguish regression from classification problems;
->- Learn to evaluate how well your classification and regression modes perform;
->- Learn best practices in supervised learning, such as splitting into test/train sets and k-fold cross validation;
->- Learn how to improve model performance by both preprocessing your data and regularizing your models.
+Learn how to develop a quick and efficient analysis workflow from a household survey dataset. This includes
+
+- Project configuration
+- Data Cleaning
+- Indicators calculation
+
 
 
 ### 3. What technologies, packages, or functions will students use? Please be exhaustive.
@@ -128,7 +131,7 @@ A typical lesson is comprised of:
 
 > Example from a course on interactive data visualization using leaflet
 
-> Chapter 1 - Setting Up Interactive Web Maps
+> Chapter 1 - Setting Up the Project
 >   * Lesson 1.1 - Introduction to leaflet
 >     * A learning objective: Create a basic interactive web map in R using the `leaflet` and `htmlwidgets` packages.
 >     * Some functions introduced/used: `leaflet()`, `addTiles()`, `%>%`

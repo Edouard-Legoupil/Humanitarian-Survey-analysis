@@ -40,3 +40,4 @@ rsconnect/
 
 # OS-specific files and directories
 .DS_Store
+.Rproj.user
