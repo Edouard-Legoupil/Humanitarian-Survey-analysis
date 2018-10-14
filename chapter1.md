@@ -1,6 +1,6 @@
 ---
-title: 'Template Chapter 1'
-description: 'This is a template chapter.'
+title: 'Humanitarian Survey'
+description: 'Common practice for survey data collection in humanitarian settings'
 ---
 
 ## An exercise title written in sentence case
