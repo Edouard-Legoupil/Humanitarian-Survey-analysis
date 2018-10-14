@@ -1,6 +1,6 @@
 ---
 title: 'Configure project'
-description: ""
+description: "Configure path and sampling plan"
 ---
 
 
