@@ -26,7 +26,6 @@ xp: 100
 skills: 1
 ```
 
-You have just collected a complex survey data set using Kobotoolobox, ODK or ONA. You need now to do the analysis. In this first chapter, we will configure your project so that the analysis is properly organized and reproducible for your peer.
 
 ---
 
