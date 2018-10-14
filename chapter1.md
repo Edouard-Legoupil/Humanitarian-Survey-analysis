@@ -26,7 +26,6 @@ xp: 100
 skills: 1
 ```
 
-
 ---
 
 ## Initiate the project
