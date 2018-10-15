@@ -14,7 +14,21 @@ xp: 50
 `@projector_key`
 670bc8dc3b01792475f2a861549f611c
 
+---
 
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 6f03a9a4ee
+xp: 50
+```
+
+`@projector_key`
+6288eb291de5f36a436898290a33e2c2
+
+
+---
 
 ## An exercise title written in sentence case
 
@@ -40,12 +54,21 @@ xp: 100
 
 `@instructions`
 
+First start a new project within your Rstduio Environment. 
+
+Now load the koboloadeR package. 
+
+The very first step is to Initiate a project. This will allwo to create a series of standard folders within the project folder.
+
+
 
 `@hint`
 
 
 `@pre_exercise_code`
 ```{r}
+library(koboloadeR)
+kobo_project_init()
 
 ```
 
@@ -104,13 +127,4 @@ xp: 100
 
 ---
 
-## Insert exercise title here
 
-```yaml
-type: VideoExercise
-key: 6f03a9a4ee
-xp: 50
-```
-
-`@projector_key`
-6288eb291de5f36a436898290a33e2c2
