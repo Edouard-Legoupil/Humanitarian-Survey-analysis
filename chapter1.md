@@ -59,7 +59,8 @@ First start a new project within your Rstduio Environment.
 Now load the koboloadeR package. 
 
 The very first step is to Initiate a project. This will allwo to create a series of standard folders within the project folder.
-
+library(koboloadeR)
+kobo_project_init()
 
 
 `@hint`
@@ -67,8 +68,7 @@ The very first step is to Initiate a project. This will allwo to create a series
 
 `@pre_exercise_code`
 ```{r}
-library(koboloadeR)
-kobo_project_init()
+
 
 ```
 
